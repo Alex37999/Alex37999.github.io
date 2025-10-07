@@ -1,144 +1,145 @@
-const logotext = "JOHN";
+const logotext = "MUZAHID";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Muzahidul Hassan",
+    description:
+        "Highly motivated CSE graduate passionate about web/mobile development, AI, and crafting great user experiences.",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Muzahidul Hassan",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "I build web apps",
+        second: "I develop mobile apps (Flutter)",
+        third: "I explore AI/ML (YOLOv8)",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    description:
+        "Ambitious, detail‑oriented and quick to learn. I enjoy solving problems, shipping useful products, and continuously improving the user experience.",
+    your_img_url:
+        "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "about me",
+    aboutme:
+        "B.Sc. in Computer Science & Engineering from RUET (2018–2024). Passionate about full‑stack web, Flutter mobile apps, and practical AI. Strong communication, time management, and the ability to handle multiple responsibilities. I love turning ideas into reliable, user‑friendly software.",
 };
-const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+const worktimeline = [
+    {
+        jobtitle: "B.Sc. in CSE",
+        where: "RUET, Rajshahi",
+        date: "2018 – 2024",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
+        jobtitle: "HSC (Science)",
+        where: "Notre Dame College, Dhaka",
+        date: "2015 – 2017",
     },
     {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "SSC (Science)",
+        where: "Khilgaon Govt. High School, Dhaka",
+        date: "2013 – 2015",
     },
 ];
 
-const skills = [{
-        name: "Python",
-        value: 90,
+const skills = [
+    { name: "C", value: 90 },
+    { name: "C++", value: 75 },
+    { name: "Java", value: 70 },
+    { name: "Python", value: 80 },
+    { name: "JavaScript", value: 75 },
+    { name: "HTML5", value: 85 },
+    { name: "CSS", value: 80 },
+    { name: "Bootstrap", value: 80 },
+    { name: "PHP", value: 65 },
+    { name: "Flutter / Dart", value: 70 },
+];
+
+const services = [
+    {
+        title: "Web Development",
+        description:
+            "Responsive, accessible websites with modern HTML/CSS/JS, Bootstrap, and basic PHP backends.",
     },
     {
-        name: "Djano",
-        value: 85,
+        title: "Mobile App Development",
+        description:
+            "Cross‑platform apps using Flutter/Dart, focusing on clean UI and smooth UX.",
     },
     {
-        name: "Javascript",
-        value: 80,
-    },
-    {
-        name: "React",
-        value: 60,
-    },
-    {
-        name: "Jquery",
-        value: 85,
+        title: "AI & Automation",
+        description:
+            "Practical AI features (e.g., object detection with YOLOv8) and task automation with Python.",
     },
 ];
 
-const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+const dataportfolio = [
+    {
+        img: "https://picsum.photos/seed/travelalarm/400/300",
+        description:
+            "Travel Alarm App — plan trips and set alarms tied to destinations to stay on schedule.",
+        link: "https://github.com/Alex37999/travel_alarm",
     },
     {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        img: "https://picsum.photos/seed/payment/400/300",
+        description:
+            "Payment Gateway Demo — basic payment flow integrating Stripe API for online purchases.",
+        link: "https://github.com/Alex37999/ecomm_payment_gatewa",
     },
     {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-];
-
-const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://picsum.photos/seed/crud/400/300",
+        description:
+            "CRUD Application — create, read, update, delete products with simple UI.",
+        link: "https://github.com/Alex37999/CRUD_application",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://picsum.photos/seed/tasks/400/300",
+        description:
+            "Task Manager App — categorize daily tasks into four groups and track status.",
+        link: "https://github.com/Alex37999/task_manager_1.0",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://picsum.photos/seed/nid/400/300",
+        description:
+            "NID Registration & Verification — functional C program for managing NID data.",
+        link: "https://github.com/Muzahid379/Project_",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://picsum.photos/seed/voice/400/300",
+        description:
+            "Voice Assistance Using AI — desktop assistant with Python speech recognition.",
+        link: "https://github.com/Muzahid379/project_2",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://picsum.photos/seed/restaurant/400/300",
+        description:
+            "E‑commerce Restaurant Management — responsive site with search (HTML/CSS, PHP, SQL).",
+        link: "https://github.com/Muzahid379/project_3",
     },
     {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://picsum.photos/seed/atm/400/300",
+        description:
+            "ATM Simulator — Java OOP app supporting balance, deposit, and withdrawal.",
+        link: "https://github.com/Muzahid379/project_1",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://picsum.photos/seed/getx/400/300",
+        description:
+            "Counter App (GetX) — Flutter app demonstrating GetX state management features.",
+        link: "https://github.com/Alex37999/getx_app3",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://picsum.photos/seed/yolo/400/300",
+        description:
+            "Thesis: Face Detection for Driving Assistance — experiments with YOLOv8.",
+        link: "https://github.com/Muzahid379/Thesis",
     },
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "utshobhassan379@gmail.com",
+    YOUR_FONE: "+8801815553897",
+    description:
+        "Open to opportunities and collaborations in web, mobile, and AI. Feel free to reach out!",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
@@ -147,10 +148,10 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/Muzahid379",
+    facebook: "",
+    linkedin: "",
+    twitter: "",
 };
 export {
     meta,
