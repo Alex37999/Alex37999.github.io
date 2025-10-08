@@ -83,7 +83,7 @@ const dataportfolio = [
         img: "https://picsum.photos/seed/payment/400/300",
         description:
             "Payment Gateway Demo — basic payment flow integrating Stripe API for online purchases.",
-        link: "https://github.com/Alex37999/ecomm_payment_gatewa",
+        link: "https://github.com/Alex37999/ecomm_payment_gateway",
     },
     {
         img: "https://picsum.photos/seed/crud/400/300",
