@@ -95,7 +95,7 @@ const dataportfolio = [
         img: "https://picsum.photos/seed/tasks/400/300",
         description:
             "Task Manager App — categorize daily tasks into four groups and track status.",
-        link: "https://github.com/Alex37999/task_manager_1.0",
+        link: "https://github.com/Alex37999/task_manager_live",
     },
     {
         img: "https://picsum.photos/seed/nid/400/300",
@@ -173,26 +173,26 @@ const dataportfolio = [
     {
         img: "https://picsum.photos/seed/yolo/400/300",
         description:
-            "Thesis: Face Detection for Driving Assistance — experiments with YOLOv8.",
-        link: "https://github.com/Muzahid379/Thesis",
+            "App-Prototype 1: Media query, portrait-landscape, gridview clickable images etc.",
+        link: "https://github.com/Alex37999/app1_prototype",
     },
     {
         img: "https://picsum.photos/seed/yolo/400/300",
         description:
-            "Thesis: Face Detection for Driving Assistance — experiments with YOLOv8.",
-        link: "https://github.com/Muzahid379/Thesis",
+            "App-Prototype 3: Horizontal scroll with containers, form submission, drawers, bi-directional foreign language etc.",
+        link: "https://github.com/Alex37999/app3_prototype",
     },
     {
         img: "https://picsum.photos/seed/yolo/400/300",
         description:
-            "Thesis: Face Detection for Driving Assistance — experiments with YOLOv8.",
-        link: "https://github.com/Muzahid379/Thesis",
+            "App-Prototype 4: Responsive design, fractional boxes with different aspect ratios, clickable images with details etc.",
+        link: "https://github.com/Alex37999/app4_prototype",
     },
     {
         img: "https://picsum.photos/seed/yolo/400/300",
         description:
-            "Thesis: Face Detection for Driving Assistance — experiments with YOLOv8.",
-        link: "https://github.com/Muzahid379/Thesis",
+            "App-Prototype 5: Adding/updating list items through input fields inside custom alert dialogs and etc.",
+        link: "https://github.com/Alex37999/app5_prototype",
     },
 ];
 
