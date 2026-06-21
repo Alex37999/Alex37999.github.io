@@ -133,6 +133,67 @@ const dataportfolio = [
             "Thesis: Face Detection for Driving Assistance — experiments with YOLOv8.",
         link: "https://github.com/Muzahid379/Thesis",
     },
+    ////////
+    {
+        img: "https://picsum.photos/seed/yolo/400/300",
+        description:
+            "Borla - The Garbage Collector App.",
+        link: "https://github.com/Muzahid379/project_borla_borla",
+    },
+    {
+        img: "https://picsum.photos/seed/yolo/400/300",
+        description:
+            "Bi-Dot : A Business Social Platform.",
+        link: "https://github.com/Alex37999/bidot_app_v2",
+    },
+    {
+        img: "https://picsum.photos/seed/yolo/400/300",
+        description:
+            "FamShed - A Family Events Scheduling App",
+        link: "https://github.com/Alex37999/fam_sched",
+    },
+    {
+        img: "https://picsum.photos/seed/yolo/400/300",
+        description:
+            "Church MS - A Church Management System App.",
+        link: "https://github.com/Alex37999/church_ms_app",
+    },
+    {
+        img: "https://picsum.photos/seed/yolo/400/300",
+        description:
+            "Power Grider : Electrical Grid Maintenance App",
+        link: "https://github.com/Alex37999/power_grid_maintenance_app",
+    },
+    {
+        img: "https://picsum.photos/seed/yolo/400/300",
+        description:
+            "Crafty Bay : A Live E-Commerce App",
+        link: "https://github.com/Alex37999/live_ecommerce_app",
+    },
+    {
+        img: "https://picsum.photos/seed/yolo/400/300",
+        description:
+            "Thesis: Face Detection for Driving Assistance — experiments with YOLOv8.",
+        link: "https://github.com/Muzahid379/Thesis",
+    },
+    {
+        img: "https://picsum.photos/seed/yolo/400/300",
+        description:
+            "Thesis: Face Detection for Driving Assistance — experiments with YOLOv8.",
+        link: "https://github.com/Muzahid379/Thesis",
+    },
+    {
+        img: "https://picsum.photos/seed/yolo/400/300",
+        description:
+            "Thesis: Face Detection for Driving Assistance — experiments with YOLOv8.",
+        link: "https://github.com/Muzahid379/Thesis",
+    },
+    {
+        img: "https://picsum.photos/seed/yolo/400/300",
+        description:
+            "Thesis: Face Detection for Driving Assistance — experiments with YOLOv8.",
+        link: "https://github.com/Muzahid379/Thesis",
+    },
 ];
 
 const contactConfig = {
